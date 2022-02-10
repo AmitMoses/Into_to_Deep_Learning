@@ -1,0 +1,1 @@
+All exercise from the course "Intro to Deep Learning" from BGU EE
